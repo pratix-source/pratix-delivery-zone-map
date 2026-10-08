@@ -51,6 +51,110 @@
     {
       "source": "/mapa-area-entrega",
       "destination": "/"
+    },
+    {
+      "source": "/en/delivery-zone-map",
+      "destination": "/"
+    },
+    {
+      "source": "/en/delivery-zone-map/",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/teslimat-bolgesi-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/teslimat-bolgesi-haritasi/",
+      "destination": "/"
+    },
+    {
+      "source": "/de/liefergebiet-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/de/liefergebiet-karte/",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-zone-livraison",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-zone-livraison/",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-zona-entrega",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-zona-entrega/",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-zona-consegna",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-zona-consegna/",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/bezorggebied-kaart",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/bezorggebied-kaart/",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/leveransomradeskarta",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/leveransomradeskarta/",
+      "destination": "/"
+    },
+    {
+      "source": "/da/leveringsomradekort",
+      "destination": "/"
+    },
+    {
+      "source": "/da/leveringsomradekort/",
+      "destination": "/"
+    },
+    {
+      "source": "/no/leveringsomradekart",
+      "destination": "/"
+    },
+    {
+      "source": "/no/leveringsomradekart/",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/toimitusaluekartta",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/toimitusaluekartta/",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/peisong-fanwei-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/peisong-fanwei-ditu/",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-area-entrega",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-area-entrega/",
+      "destination": "/"
     }
   ]
 }
