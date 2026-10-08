@@ -1,0 +1,56 @@
+{
+  "rewrites": [
+    {
+      "source": "/delivery-zone-map",
+      "destination": "/"
+    },
+    {
+      "source": "/teslimat-bolgesi-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/liefergebiet-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/carte-zone-livraison",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-zona-entrega",
+      "destination": "/"
+    },
+    {
+      "source": "/mappa-zona-consegna",
+      "destination": "/"
+    },
+    {
+      "source": "/bezorggebied-kaart",
+      "destination": "/"
+    },
+    {
+      "source": "/leveransomradeskarta",
+      "destination": "/"
+    },
+    {
+      "source": "/leveringsomradekort",
+      "destination": "/"
+    },
+    {
+      "source": "/leveringsomradekart",
+      "destination": "/"
+    },
+    {
+      "source": "/toimitusaluekartta",
+      "destination": "/"
+    },
+    {
+      "source": "/peisong-fanwei-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-area-entrega",
+      "destination": "/"
+    }
+  ]
+}
